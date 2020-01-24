@@ -2,6 +2,7 @@
 
 def load_library
   # code goes here
+  puts {01}!
 end
 
 def get_japanese_emoticon
